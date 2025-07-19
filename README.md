@@ -2,7 +2,7 @@
 
 A responsive clone of Jovian's careers page built with pure HTML and CSS, demonstrating modern web development fundamentals.
 
-**Live Demo:** [View Project](https://namratha1305.github.io/Projects/)
+**Live Demo:** [View Project](https://namratha1305.github.io/Jovian_Clone_Website/)
 
 ## Key Features
 - **Pixel-perfect UI**: Replicating Jovian's clean, professional design
